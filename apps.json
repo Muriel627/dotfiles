@@ -1,0 +1,292 @@
+{
+	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate" : "2026-02-22T01:11:55.538-00:00",
+	"Sources" : 
+	[
+		{
+			"Packages" : 
+			[
+				{
+					"PackageIdentifier" : "Bitdefender.Bitdefender",
+					"Version" : "27.1.1.28"
+				},
+				{
+					"PackageIdentifier" : "JetBrains.CLion",
+					"Version" : "2025.3.3"
+				},
+				{
+					"PackageIdentifier" : "CPUID.CPU-Z",
+					"Version" : "2.18"
+				},
+				{
+					"PackageIdentifier" : "Docker.DockerDesktop",
+					"Version" : "4.61.0"
+				},
+				{
+					"PackageIdentifier" : "JetBrains.IntelliJIDEA",
+					"Version" : "2025.3.2"
+				},
+				{
+					"PackageIdentifier" : "JetBrains.Rider",
+					"Version" : "2025.3.3"
+				},
+				{
+					"PackageIdentifier" : "Muse.MuseHub",
+					"Version" : "2.6.5.2120"
+				},
+				{
+					"PackageIdentifier" : "Cyanfish.NAPS2",
+					"Version" : "8.2.1"
+				},
+				{
+					"PackageIdentifier" : "Notepad++.Notepad++",
+					"Version" : "8.9.2"
+				},
+				{
+					"PackageIdentifier" : "JetBrains.PyCharm",
+					"Version" : "2025.3.2.1"
+				},
+				{
+					"PackageIdentifier" : "RProject.R",
+					"Version" : "4.5.2"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.msodbcsql.17",
+					"Version" : "17.10.6.1"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2010.x64",
+					"Version" : "10.0.40219"
+				},
+				{
+					"PackageIdentifier" : "Oracle.JDK.17",
+					"Version" : "17.0.12.0"
+				},
+				{
+					"PackageIdentifier" : "Oracle.MySQL",
+					"Version" : "9.1.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.SQLServer.OLEDBDriver",
+					"Version" : "19.4.1.0"
+				},
+				{
+					"PackageIdentifier" : "Oracle.MySQLWorkbench",
+					"Version" : "8.0.46"
+				},
+				{
+					"PackageIdentifier" : "Musescore.Musescore",
+					"Version" : "4.5.2.251141402"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.msmpi",
+					"Version" : "10.1.12498.52"
+				},
+				{
+					"PackageIdentifier" : "Nvidia.PhysX",
+					"Version" : "9.23.1019"
+				},
+				{
+					"PackageIdentifier" : "logisim-evolution.logisim-evolution",
+					"Version" : "4.0.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.GameInput",
+					"Version" : "10.1.26100.6879"
+				},
+				{
+					"PackageIdentifier" : "Veeam.VeeamAgent",
+					"Version" : "13.0.1.1009"
+				},
+				{
+					"PackageIdentifier" : "Brave.Brave",
+					"Version" : "145.1.87.190"
+				},
+				{
+					"PackageIdentifier" : "Google.Chrome.EXE",
+					"Version" : "145.0.7632.110"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Edge",
+					"Version" : "145.0.3800.70"
+				},
+				{
+					"PackageIdentifier" : "Posit.RStudio",
+					"Version" : "2026.01.1+403"
+				},
+				{
+					"PackageIdentifier" : "aSc.aScTimeTables",
+					"Version" : "2020"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2013.x64",
+					"Version" : "12.0.40664.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6",
+					"Version" : "6.0.36"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86",
+					"Version" : "14.50.35719.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.8",
+					"Version" : "8.0.24"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.8",
+					"Version" : "8.0.24"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.Runtime.6",
+					"Version" : "6.0.36"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2012.x86",
+					"Version" : "11.0.61030.0"
+				},
+				{
+					"PackageIdentifier" : "Intel.IntelDriverAndSupportAssistant",
+					"Version" : "25.4.36.6"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.PowerBI",
+					"Version" : "2.150.2455.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64",
+					"Version" : "14.50.35719.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.Runtime.8",
+					"Version" : "8.0.24"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2013.x86",
+					"Version" : "12.0.40664.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2010.x86",
+					"Version" : "10.0.40219"
+				},
+				{
+					"PackageIdentifier" : "EpicGames.EpicGamesLauncher",
+					"Version" : "1.3.93.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.SQLServerManagementStudio",
+					"Version" : "20.2.1"
+				},
+				{
+					"PackageIdentifier" : "GitHub.GitHubDesktop",
+					"Version" : "3.5.5"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.OneDrive",
+					"Version" : "26.012.0119.0002"
+				},
+				{
+					"PackageIdentifier" : "Zoom.Zoom.EXE",
+					"Version" : "6.7.5 (30439)"
+				},
+				{
+					"PackageIdentifier" : "Obsidian.Obsidian",
+					"Version" : "1.11.7"
+				},
+				{
+					"PackageIdentifier" : "Roblox.Roblox",
+					"Version" : "Unknown"
+				},
+				{
+					"PackageIdentifier" : "Ollama.Ollama",
+					"Version" : "0.16.3"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VisualStudioCode",
+					"Version" : "1.109.5"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.PowerToys",
+					"Version" : "0.97.2"
+				},
+				{
+					"PackageIdentifier" : "Canonical.Ubuntu",
+					"Version" : "2404.1.68.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.AppInstaller",
+					"Version" : "1.27.470.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DirectX",
+					"Version" : "9.29.1974.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.UI.Xaml.2.7",
+					"Version" : "7.2409.9001.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.UI.Xaml.2.8",
+					"Version" : "8.2501.31001.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCLibs.Desktop.14",
+					"Version" : "14.0.33728.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCLibs.14",
+					"Version" : "14.0.33519.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.1.8",
+					"Version" : "1.8.5"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsTerminal",
+					"Version" : "1.23.20211.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WSL",
+					"Version" : "2.6.3.0"
+				},
+				{
+					"PackageIdentifier" : "JanDeDobbeleer.OhMyPosh",
+					"Version" : "29.4.1.0"
+				}
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://cdn.winget.microsoft.com/cache",
+				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name" : "winget",
+				"Type" : "Microsoft.PreIndexed.Package"
+			}
+		},
+		{
+			"Packages" : 
+			[
+				{
+					"PackageIdentifier" : "XP8K4RGX25G3GM",
+					"Version" : "9.8.0"
+				},
+				{
+					"PackageIdentifier" : "XPDC2RH70K22MN",
+					"Version" : "1.0.9188"
+				},
+				{
+					"PackageIdentifier" : "XPDBZ4MPRKNN30",
+					"Version" : "127.0.5778.75"
+				}
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://storeedgefd.dsx.mp.microsoft.com/v9.0",
+				"Identifier" : "StoreEdgeFD",
+				"Name" : "msstore",
+				"Type" : "Microsoft.Rest"
+			}
+		}
+	],
+	"WinGetVersion" : "1.12.470"
+}
