@@ -1,0 +1,20 @@
+{
+    "workbench.colorTheme": "Light Pink",
+    "tabnine.experimentalAutoImports": true,
+    "remote.SSH.remotePlatform": {
+        "*.gitpod.io": "linux",
+        "freecodecam-learnbashby-eag34p85cxw.vss.gitpod.io": "linux",
+        "freecodecam-learnrelati-dwdy7samc1y.vss.gitpod.io": "linux",
+        "freecodecam-learnrelati-qleae7g8es1.vss.gitpod.io": "linux",
+        "freecodecam-learnrelati-klca8n9y8rw.vss.gitpod.io": "linux"
+    },
+    "remote.SSH.defaultExtensions": [
+        "gitpod.gitpod-remote-ssh"
+    ],
+    "dev.containers.defaultExtensions": [
+        "gitpod.gitpod-remote-ssh"
+    ],
+    "redhat.telemetry.enabled": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+}
