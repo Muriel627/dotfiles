@@ -1,20 +1,52 @@
 {
-    "workbench.colorTheme": "Light Pink",
-    "tabnine.experimentalAutoImports": true,
-    "remote.SSH.remotePlatform": {
-        "*.gitpod.io": "linux",
-        "freecodecam-learnbashby-eag34p85cxw.vss.gitpod.io": "linux",
-        "freecodecam-learnrelati-dwdy7samc1y.vss.gitpod.io": "linux",
-        "freecodecam-learnrelati-qleae7g8es1.vss.gitpod.io": "linux",
-        "freecodecam-learnrelati-klca8n9y8rw.vss.gitpod.io": "linux"
+  "workbench.colorTheme": "Light Pink",
+  "tabnine.experimentalAutoImports": true,
+  "remote.SSH.remotePlatform": {
+    "*.gitpod.io": "linux",
+    "freecodecam-learnbashby-eag34p85cxw.vss.gitpod.io": "linux",
+    "freecodecam-learnrelati-dwdy7samc1y.vss.gitpod.io": "linux",
+    "freecodecam-learnrelati-qleae7g8es1.vss.gitpod.io": "linux",
+    "freecodecam-learnrelati-klca8n9y8rw.vss.gitpod.io": "linux",
+  },
+  "remote.SSH.defaultExtensions": ["gitpod.gitpod-remote-ssh"],
+  "dev.containers.defaultExtensions": ["gitpod.gitpod-remote-ssh"],
+  "redhat.telemetry.enabled": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "files.associations": {
+    "**/*.COBOL*{,/*}": "cobol",
+    "**/*.COB*{,/*}": "cobol",
+    "**/*.COBCOPY*{,/*}": "cobol",
+    "**/*.COPYBOOK*{,/*}": "cobol",
+    "**/*.COPY*{,/*}": "cobol",
+    "**/*.PL1*{,/*}": "pl1",
+    "**/*.PLI*{,/*}": "pl1",
+    "**/*.INC*{,/*}": "pl1",
+    "**/*.INCLUDE*{,/*}": "pl1",
+    "**/*.JCL*{,/*}": "jcl",
+    "**/*.CNTL*{,/*}": "jcl",
+    "**/*.PROC*{,/*}": "jcl",
+    "**/*.ASM*{,/*}": "hlasm",
+    "**/*.ASSEMBLE*{,/*}": "hlasm",
+    "**/*.HLASM*{,/*}": "hlasm",
+    "**/*.HLA*{,/*}": "hlasm",
+    "**/*.MACLIB*{,/*}": "hlasm",
+    "**/*.DBD*{,/*}": "hlasm",
+    "**/*.MFS*{,/*}": "hlasm",
+    "**/*.PCB*{,/*}": "hlasm",
+    "**/*.EXEC*{,/*}": "rexx",
+    "**/*.REXX*{,/*}": "rexx",
+    "**/*.REXXINC*{,/*}": "rexx",
+    "*.rex": "rexx"
+  },
+  "json.schemas": [
+    {
+      "fileMatch": ["/zapp.json"],
+      "url": "file:///c%3A/Users/Luciana%20Pastor/.vscode/extensions/ibm.zopeneditor-6.4.0/resources/zapp-schema-1.8.0.json",
     },
-    "remote.SSH.defaultExtensions": [
-        "gitpod.gitpod-remote-ssh"
-    ],
-    "dev.containers.defaultExtensions": [
-        "gitpod.gitpod-remote-ssh"
-    ],
-    "redhat.telemetry.enabled": true,
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.formatOnSave": true
+    {
+      "fileMatch": ["/zcodeformat.json"],
+      "url": "file:///c%3A/Users/Luciana%20Pastor/.vscode/extensions/ibm.zopeneditor-6.4.0/resources/zcodeformat-schema-0.0.1.json",
+    },
+  ],
 }

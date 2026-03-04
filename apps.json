@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-02-22T02:19:48.729-00:00",
+	"CreationDate" : "2026-03-04T08:00:27.185-00:00",
 	"Sources" : 
 	[
 		{
@@ -91,6 +91,10 @@
 					"Version" : "4.0.0"
 				},
 				{
+					"PackageIdentifier" : "EclipseAdoptium.Temurin.21.JDK",
+					"Version" : "21.0.6.7"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.GameInput",
 					"Version" : "10.1.26100.6879"
 				},
@@ -100,15 +104,15 @@
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "145.1.87.190"
+					"Version" : "145.1.87.191"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
-					"Version" : "145.0.7632.110"
+					"Version" : "145.0.7632.159"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
-					"Version" : "145.0.3800.70"
+					"Version" : "145.0.3800.82"
 				},
 				{
 					"PackageIdentifier" : "Posit.RStudio",
@@ -184,7 +188,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.OneDrive",
-					"Version" : "26.012.0119.0002"
+					"Version" : "26.022.0203.0006"
 				},
 				{
 					"PackageIdentifier" : "Zoom.Zoom.EXE",
@@ -200,7 +204,7 @@
 				},
 				{
 					"PackageIdentifier" : "Ollama.Ollama",
-					"Version" : "0.16.3"
+					"Version" : "0.17.4"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode",
@@ -276,7 +280,7 @@
 				},
 				{
 					"PackageIdentifier" : "XPDBZ4MPRKNN30",
-					"Version" : "127.0.5778.75"
+					"Version" : "127.0.5778.96"
 				}
 			],
 			"SourceDetails" : 
