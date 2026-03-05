@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-03-04T08:00:27.185-00:00",
+	"CreationDate" : "2026-03-05T08:00:30.731-00:00",
 	"Sources" : 
 	[
 		{
@@ -104,7 +104,7 @@
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "145.1.87.191"
+					"Version" : "145.1.87.192"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
@@ -204,7 +204,7 @@
 				},
 				{
 					"PackageIdentifier" : "Ollama.Ollama",
-					"Version" : "0.17.4"
+					"Version" : "0.17.6"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode",
