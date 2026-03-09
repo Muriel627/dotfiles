@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-03-06T08:00:15.655-00:00",
+	"CreationDate" : "2026-03-09T08:00:22.764-00:00",
 	"Sources" : 
 	[
 		{
@@ -83,6 +83,10 @@
 					"Version" : "10.1.12498.52"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.GameInput",
+					"Version" : "3.2.138.0"
+				},
+				{
 					"PackageIdentifier" : "Nvidia.PhysX",
 					"Version" : "9.23.1019"
 				},
@@ -93,10 +97,6 @@
 				{
 					"PackageIdentifier" : "EclipseAdoptium.Temurin.21.JDK",
 					"Version" : "21.0.6.7"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.GameInput",
-					"Version" : "10.1.26100.6879"
 				},
 				{
 					"PackageIdentifier" : "Veeam.VeeamAgent",
@@ -112,7 +112,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
-					"Version" : "145.0.3800.82"
+					"Version" : "145.0.3800.97"
 				},
 				{
 					"PackageIdentifier" : "Posit.RStudio",
@@ -204,7 +204,7 @@
 				},
 				{
 					"PackageIdentifier" : "Ollama.Ollama",
-					"Version" : "0.17.6"
+					"Version" : "0.17.7"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode",
