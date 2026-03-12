@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-03-10T08:00:22.739-00:00",
+	"CreationDate" : "2026-03-12T08:00:19.827-00:00",
 	"Sources" : 
 	[
 		{
@@ -104,7 +104,7 @@
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "145.1.87.192"
+					"Version" : "146.1.88.127"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
@@ -136,11 +136,11 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.8",
-					"Version" : "8.0.24"
+					"Version" : "8.0.25"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.8",
-					"Version" : "8.0.24"
+					"PackageIdentifier" : "Microsoft.DotNet.Runtime.8",
+					"Version" : "8.0.25"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.Runtime.6",
@@ -149,6 +149,10 @@
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2012.x86",
 					"Version" : "11.0.61030.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.8",
+					"Version" : "8.0.25"
 				},
 				{
 					"PackageIdentifier" : "Intel.IntelDriverAndSupportAssistant",
@@ -161,10 +165,6 @@
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64",
 					"Version" : "14.50.35719.0"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.DotNet.Runtime.8",
-					"Version" : "8.0.24"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2013.x86",
@@ -188,7 +188,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.OneDrive",
-					"Version" : "26.022.0203.0006"
+					"Version" : "26.026.0209.0004"
 				},
 				{
 					"PackageIdentifier" : "Zoom.Zoom.EXE",
