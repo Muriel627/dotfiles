@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-03-19T08:01:39.288-00:00",
+	"CreationDate" : "2026-03-20T08:00:21.286-00:00",
 	"Sources" : 
 	[
 		{
@@ -84,7 +84,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.GameInput",
-					"Version" : "3.2.138.0"
+					"Version" : "3.3.163.0"
 				},
 				{
 					"PackageIdentifier" : "Nvidia.PhysX",
@@ -104,7 +104,7 @@
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "146.1.88.132"
+					"Version" : "146.1.88.134"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
@@ -248,7 +248,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.1.8",
-					"Version" : "1.8.5"
+					"Version" : "> 1.8.5"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminal",
@@ -284,7 +284,7 @@
 				},
 				{
 					"PackageIdentifier" : "XPDBZ4MPRKNN30",
-					"Version" : "128.0.5807.78"
+					"Version" : "128.0.5807.97"
 				}
 			],
 			"SourceDetails" : 
