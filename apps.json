@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-03-21T08:00:15.317-00:00",
+	"CreationDate" : "2026-03-23T08:00:20.855-00:00",
 	"Sources" : 
 	[
 		{
@@ -112,7 +112,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
-					"Version" : "146.0.3856.62"
+					"Version" : "146.0.3856.72"
 				},
 				{
 					"PackageIdentifier" : "Posit.RStudio",
@@ -224,7 +224,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.AppInstaller",
-					"Version" : "1.27.470.0"
+					"Version" : "1.28.220.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DirectX",
@@ -296,5 +296,5 @@
 			}
 		}
 	],
-	"WinGetVersion" : "1.12.470"
+	"WinGetVersion" : "1.28.220"
 }
