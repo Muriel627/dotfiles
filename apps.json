@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-03-26T08:21:50.615-00:00",
+	"CreationDate" : "2026-03-29T08:00:19.884-00:00",
 	"Sources" : 
 	[
 		{
@@ -112,7 +112,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
-					"Version" : "146.0.3856.78"
+					"Version" : "146.0.3856.84"
 				},
 				{
 					"PackageIdentifier" : "Posit.RStudio",
@@ -203,8 +203,12 @@
 					"Version" : "Unknown"
 				},
 				{
+					"PackageIdentifier" : "QQ.RobloxStudioCN",
+					"Version" : "Unknown"
+				},
+				{
 					"PackageIdentifier" : "Ollama.Ollama",
-					"Version" : "0.18.2"
+					"Version" : "0.18.3"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode",
