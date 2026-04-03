@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-03-30T08:00:15.585-00:00",
+	"CreationDate" : "2026-04-03T08:00:18.865-00:00",
 	"Sources" : 
 	[
 		{
@@ -83,16 +83,16 @@
 					"Version" : "10.1.12498.52"
 				},
 				{
+					"PackageIdentifier" : "logisim-evolution.logisim-evolution",
+					"Version" : "4.1.0"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.GameInput",
 					"Version" : "3.3.163.0"
 				},
 				{
 					"PackageIdentifier" : "Nvidia.PhysX",
 					"Version" : "9.23.1019"
-				},
-				{
-					"PackageIdentifier" : "logisim-evolution.logisim-evolution",
-					"Version" : "4.0.0"
 				},
 				{
 					"PackageIdentifier" : "EclipseAdoptium.Temurin.21.JDK",
@@ -104,15 +104,15 @@
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "146.1.88.136"
+					"Version" : "146.1.88.138"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
-					"Version" : "146.0.7680.165"
+					"Version" : "146.0.7680.178"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
-					"Version" : "146.0.3856.84"
+					"Version" : "146.0.3856.97"
 				},
 				{
 					"PackageIdentifier" : "Posit.RStudio",
@@ -155,10 +155,6 @@
 					"Version" : "8.0.25"
 				},
 				{
-					"PackageIdentifier" : "Intel.IntelDriverAndSupportAssistant",
-					"Version" : "25.4.36.6"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.PowerBI",
 					"Version" : "2.150.2455.0"
 				},
@@ -169,6 +165,10 @@
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2013.x86",
 					"Version" : "12.0.40664.0"
+				},
+				{
+					"PackageIdentifier" : "Intel.IntelDriverAndSupportAssistant",
+					"Version" : "26.1.0.2"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2010.x86",
@@ -188,7 +188,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.OneDrive",
-					"Version" : "26.035.0222.0002"
+					"Version" : "26.040.0301.0001"
 				},
 				{
 					"PackageIdentifier" : "Zoom.Zoom.EXE",
@@ -208,7 +208,7 @@
 				},
 				{
 					"PackageIdentifier" : "Ollama.Ollama",
-					"Version" : "0.18.3"
+					"Version" : "0.19.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode",
