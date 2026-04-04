@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-04-03T08:00:18.865-00:00",
+	"CreationDate" : "2026-04-04T08:00:15.777-00:00",
 	"Sources" : 
 	[
 		{
@@ -8,7 +8,7 @@
 			[
 				{
 					"PackageIdentifier" : "Bitdefender.Bitdefender",
-					"Version" : "27.1.1.28"
+					"Version" : "27.1.1.35"
 				},
 				{
 					"PackageIdentifier" : "JetBrains.CLion",
