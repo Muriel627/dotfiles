@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-04-08T08:00:37.478-00:00",
+	"CreationDate" : "2026-04-09T08:00:15.786-00:00",
 	"Sources" : 
 	[
 		{
@@ -212,7 +212,7 @@
 				},
 				{
 					"PackageIdentifier" : "Ollama.Ollama",
-					"Version" : "0.20.2"
+					"Version" : "0.20.3"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode",
@@ -244,7 +244,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.UI.Xaml.2.8",
-					"Version" : "8.2501.31001.0"
+					"Version" : "8.2511.26001.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCLibs.Desktop.14",
