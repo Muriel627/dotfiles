@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-04-13T08:00:17.233-00:00",
+	"CreationDate" : "2026-04-14T08:00:31.145-00:00",
 	"Sources" : 
 	[
 		{
@@ -108,11 +108,11 @@
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
-					"Version" : "146.0.7680.178"
+					"Version" : "147.0.7727.56"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
-					"Version" : "146.0.3856.109"
+					"Version" : "147.0.3912.60"
 				},
 				{
 					"PackageIdentifier" : "Posit.RStudio",
@@ -212,7 +212,7 @@
 				},
 				{
 					"PackageIdentifier" : "Ollama.Ollama",
-					"Version" : "0.20.5"
+					"Version" : "0.20.6"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode",
