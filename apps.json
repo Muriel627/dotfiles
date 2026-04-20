@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-04-16T08:00:20.674-00:00",
+	"CreationDate" : "2026-04-20T08:00:17.170-00:00",
 	"Sources" : 
 	[
 		{
@@ -104,7 +104,7 @@
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "147.1.89.132"
+					"Version" : "147.1.89.137"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
@@ -112,7 +112,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
-					"Version" : "147.0.3912.60"
+					"Version" : "147.0.3912.72"
 				},
 				{
 					"PackageIdentifier" : "Posit.RStudio",
@@ -208,15 +208,11 @@
 				},
 				{
 					"PackageIdentifier" : "Ollama.Ollama",
-					"Version" : "0.20.7"
+					"Version" : "0.21.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode",
 					"Version" : "1.112.0"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.PowerToys",
-					"Version" : "0.97.2"
 				},
 				{
 					"PackageIdentifier" : "Canonical.Ubuntu.2204",
