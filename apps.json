@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-04-20T08:00:17.170-00:00",
+	"CreationDate" : "2026-04-23T08:00:14.613-00:00",
 	"Sources" : 
 	[
 		{
@@ -104,11 +104,11 @@
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "147.1.89.137"
+					"Version" : "147.1.89.141"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
-					"Version" : "147.0.7727.101"
+					"Version" : "147.0.7727.103"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
@@ -188,7 +188,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.OneDrive",
-					"Version" : "26.051.0316.0004"
+					"Version" : "26.055.0323.0004"
 				},
 				{
 					"PackageIdentifier" : "Zoom.Zoom.EXE",
@@ -224,7 +224,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.AppInstaller",
-					"Version" : "1.28.220.0"
+					"Version" : "1.28.240.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DirectX",
@@ -276,7 +276,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.1.8",
-					"Version" : "1.8.6"
+					"Version" : "> 1.8.6"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminal",
@@ -312,7 +312,7 @@
 				},
 				{
 					"PackageIdentifier" : "XPDBZ4MPRKNN30",
-					"Version" : "129.0.5823.70"
+					"Version" : "130.0.5847.58"
 				}
 			],
 			"SourceDetails" : 
@@ -324,5 +324,5 @@
 			}
 		}
 	],
-	"WinGetVersion" : "1.28.220"
+	"WinGetVersion" : "1.28.240"
 }
