@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-05-01T08:00:24.950-00:00",
+	"CreationDate" : "2026-05-02T08:00:19.160-00:00",
 	"Sources" : 
 	[
 		{
@@ -8,7 +8,7 @@
 			[
 				{
 					"PackageIdentifier" : "Bitdefender.Bitdefender",
-					"Version" : "27.1.1.36"
+					"Version" : "27.1.1.38"
 				},
 				{
 					"PackageIdentifier" : "JetBrains.CLion",
@@ -51,6 +51,10 @@
 					"Version" : "4.5.2"
 				},
 				{
+					"PackageIdentifier" : "SteelSeries.GG",
+					"Version" : "108.1.0"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.msodbcsql.17",
 					"Version" : "17.10.6.1"
 				},
@@ -69,6 +73,10 @@
 				{
 					"PackageIdentifier" : "Microsoft.SQLServer.OLEDBDriver",
 					"Version" : "19.4.1.0"
+				},
+				{
+					"PackageIdentifier" : "Logitech.GHUB",
+					"Version" : "2026.2.861820"
 				},
 				{
 					"PackageIdentifier" : "Oracle.MySQLWorkbench",
@@ -112,7 +120,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
-					"Version" : "147.0.3912.86"
+					"Version" : "147.0.3912.98"
 				},
 				{
 					"PackageIdentifier" : "Posit.RStudio",
@@ -204,7 +212,7 @@
 				},
 				{
 					"PackageIdentifier" : "Ollama.Ollama",
-					"Version" : "0.22.0"
+					"Version" : "0.22.1"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode",
@@ -225,6 +233,10 @@
 				{
 					"PackageIdentifier" : "Microsoft.DirectX",
 					"Version" : "9.29.1974.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.Native.Runtime",
+					"Version" : "2.2.28604.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.UI.Xaml.2.6",
@@ -276,7 +288,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.1.8",
-					"Version" : "> 1.8.6"
+					"Version" : "8000.836.2153.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminal",
