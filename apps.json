@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-05-04T08:00:16.960-00:00",
+	"CreationDate" : "2026-05-10T08:00:22.169-00:00",
 	"Sources" : 
 	[
 		{
@@ -52,7 +52,7 @@
 				},
 				{
 					"PackageIdentifier" : "SteelSeries.GG",
-					"Version" : "108.1.0"
+					"Version" : "110.0.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.msodbcsql.17",
@@ -95,10 +95,6 @@
 					"Version" : "4.1.0"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.GameInput",
-					"Version" : "3.3.163.0"
-				},
-				{
 					"PackageIdentifier" : "Nvidia.PhysX",
 					"Version" : "9.23.1019"
 				},
@@ -107,12 +103,16 @@
 					"Version" : "21.0.6.7"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.GameInput",
+					"Version" : "3.3.182.0"
+				},
+				{
 					"PackageIdentifier" : "Veeam.VeeamAgent",
 					"Version" : "13.0.1.1009"
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "147.1.89.145"
+					"Version" : "148.1.90.121"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
@@ -120,7 +120,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
-					"Version" : "147.0.3912.98"
+					"Version" : "148.0.3967.54"
 				},
 				{
 					"PackageIdentifier" : "Posit.RStudio",
@@ -196,7 +196,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.OneDrive",
-					"Version" : "26.062.0402.0002"
+					"Version" : "26.063.0405.0002"
 				},
 				{
 					"PackageIdentifier" : "Zoom.Zoom.EXE",
@@ -212,7 +212,7 @@
 				},
 				{
 					"PackageIdentifier" : "Ollama.Ollama",
-					"Version" : "0.22.1"
+					"Version" : "0.23.2"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode",
@@ -296,7 +296,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WSL",
-					"Version" : "2.6.3.0"
+					"Version" : "2.7.3.0"
 				},
 				{
 					"PackageIdentifier" : "JanDeDobbeleer.OhMyPosh",
@@ -320,7 +320,7 @@
 				},
 				{
 					"PackageIdentifier" : "XPDC2RH70K22MN",
-					"Version" : "1.0.9188"
+					"Version" : "1.0.9236"
 				},
 				{
 					"PackageIdentifier" : "XPDBZ4MPRKNN30",
