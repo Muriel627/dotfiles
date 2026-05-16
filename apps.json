@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-05-11T08:00:18.001-00:00",
+	"CreationDate" : "2026-05-16T08:00:19.704-00:00",
 	"Sources" : 
 	[
 		{
@@ -75,10 +75,6 @@
 					"Version" : "19.4.1.0"
 				},
 				{
-					"PackageIdentifier" : "Logitech.GHUB",
-					"Version" : "2026.2.861820"
-				},
-				{
 					"PackageIdentifier" : "Oracle.MySQLWorkbench",
 					"Version" : "8.0.46"
 				},
@@ -112,11 +108,11 @@
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "148.1.90.121"
+					"Version" : "148.1.90.122"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
-					"Version" : "147.0.7727.138"
+					"Version" : "148.0.7778.168"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
@@ -135,12 +131,12 @@
 					"Version" : "12.0.40664.0"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.Runtime.8",
-					"Version" : "8.0.26"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6",
 					"Version" : "6.0.36"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.8",
+					"Version" : "8.0.27"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86",
@@ -157,6 +153,14 @@
 				{
 					"PackageIdentifier" : "Microsoft.PowerBI",
 					"Version" : "2.150.2455.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.8",
+					"Version" : "8.0.27"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.Runtime.8",
+					"Version" : "8.0.27"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64",
@@ -179,14 +183,6 @@
 					"Version" : "1.3.93.0"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.8",
-					"Version" : "8.0.26"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.8",
-					"Version" : "8.0.26"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.SQLServerManagementStudio",
 					"Version" : "20.2.1"
 				},
@@ -196,7 +192,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.OneDrive",
-					"Version" : "26.063.0405.0002"
+					"Version" : "26.070.0414.0001"
 				},
 				{
 					"PackageIdentifier" : "Zoom.Zoom.EXE",
@@ -212,7 +208,7 @@
 				},
 				{
 					"PackageIdentifier" : "Ollama.Ollama",
-					"Version" : "0.23.2"
+					"Version" : "0.24.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode",
@@ -288,11 +284,11 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.1.8",
-					"Version" : "8000.836.2153.0"
+					"Version" : "8000.859.21.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminal",
-					"Version" : "1.24.10921.0"
+					"Version" : "1.24.11321.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WSL",
@@ -320,11 +316,11 @@
 				},
 				{
 					"PackageIdentifier" : "XPDC2RH70K22MN",
-					"Version" : "1.0.9236"
+					"Version" : "1.0.9237"
 				},
 				{
 					"PackageIdentifier" : "XPDBZ4MPRKNN30",
-					"Version" : "130.0.5847.108"
+					"Version" : "131.0.5877.36"
 				}
 			],
 			"SourceDetails" : 
