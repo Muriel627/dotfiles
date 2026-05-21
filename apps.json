@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-05-16T08:00:19.704-00:00",
+	"CreationDate" : "2026-05-21T08:00:17.924-00:00",
 	"Sources" : 
 	[
 		{
@@ -55,6 +55,10 @@
 					"Version" : "110.0.0"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.GameInput",
+					"Version" : "3.3.221.0"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.msodbcsql.17",
 					"Version" : "17.10.6.1"
 				},
@@ -99,24 +103,20 @@
 					"Version" : "21.0.6.7"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.GameInput",
-					"Version" : "3.3.182.0"
-				},
-				{
 					"PackageIdentifier" : "Veeam.VeeamAgent",
 					"Version" : "13.0.1.1009"
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "148.1.90.122"
+					"Version" : "148.1.90.124"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
-					"Version" : "148.0.7778.168"
+					"Version" : "148.0.7778.178"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
-					"Version" : "148.0.3967.54"
+					"Version" : "148.0.3967.70"
 				},
 				{
 					"PackageIdentifier" : "Posit.RStudio",
@@ -192,7 +192,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.OneDrive",
-					"Version" : "26.070.0414.0001"
+					"Version" : "26.074.0420.0001"
 				},
 				{
 					"PackageIdentifier" : "Zoom.Zoom.EXE",
@@ -320,7 +320,7 @@
 				},
 				{
 					"PackageIdentifier" : "XPDBZ4MPRKNN30",
-					"Version" : "131.0.5877.36"
+					"Version" : "131.0.5877.57"
 				}
 			],
 			"SourceDetails" : 
