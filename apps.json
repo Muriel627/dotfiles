@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-05-21T08:00:17.924-00:00",
+	"CreationDate" : "2026-05-23T08:00:21.113-00:00",
 	"Sources" : 
 	[
 		{
@@ -52,7 +52,7 @@
 				},
 				{
 					"PackageIdentifier" : "SteelSeries.GG",
-					"Version" : "110.0.0"
+					"Version" : "111.0.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.GameInput",
@@ -112,11 +112,11 @@
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
-					"Version" : "148.0.7778.178"
+					"Version" : "148.0.7778.179"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
-					"Version" : "148.0.3967.70"
+					"Version" : "148.0.3967.83"
 				},
 				{
 					"PackageIdentifier" : "Posit.RStudio",
