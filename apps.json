@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-05-23T08:00:21.113-00:00",
+	"CreationDate" : "2026-05-26T08:00:16.345-00:00",
 	"Sources" : 
 	[
 		{
@@ -192,7 +192,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.OneDrive",
-					"Version" : "26.074.0420.0001"
+					"Version" : "26.078.0426.0002"
 				},
 				{
 					"PackageIdentifier" : "Zoom.Zoom.EXE",
@@ -320,7 +320,7 @@
 				},
 				{
 					"PackageIdentifier" : "XPDBZ4MPRKNN30",
-					"Version" : "131.0.5877.57"
+					"Version" : "131.0.5877.84"
 				}
 			],
 			"SourceDetails" : 
