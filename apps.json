@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-05-26T08:00:16.345-00:00",
+	"CreationDate" : "2026-05-28T08:00:17.463-00:00",
 	"Sources" : 
 	[
 		{
@@ -112,7 +112,7 @@
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
-					"Version" : "148.0.7778.179"
+					"Version" : "148.0.7778.216"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
@@ -193,10 +193,6 @@
 				{
 					"PackageIdentifier" : "Microsoft.OneDrive",
 					"Version" : "26.078.0426.0002"
-				},
-				{
-					"PackageIdentifier" : "Zoom.Zoom.EXE",
-					"Version" : "6.7.8 (32670)"
 				},
 				{
 					"PackageIdentifier" : "Obsidian.Obsidian",
@@ -320,7 +316,11 @@
 				},
 				{
 					"PackageIdentifier" : "XPDBZ4MPRKNN30",
-					"Version" : "131.0.5877.84"
+					"Version" : "131.0.5877.104"
+				},
+				{
+					"PackageIdentifier" : "XP99J3KP4XZ4VV",
+					"Version" : "7.0.2 (34412)"
 				}
 			],
 			"SourceDetails" : 
