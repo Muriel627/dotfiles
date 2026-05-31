@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-05-28T08:00:17.463-00:00",
+	"CreationDate" : "2026-05-31T08:00:16.417-00:00",
 	"Sources" : 
 	[
 		{
@@ -8,7 +8,7 @@
 			[
 				{
 					"PackageIdentifier" : "Bitdefender.Bitdefender",
-					"Version" : "27.1.1.38"
+					"Version" : "27.1.1.41"
 				},
 				{
 					"PackageIdentifier" : "JetBrains.CLion",
@@ -108,7 +108,7 @@
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "148.1.90.124"
+					"Version" : "148.1.90.128"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
@@ -116,7 +116,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
-					"Version" : "148.0.3967.83"
+					"Version" : "148.0.3967.96"
 				},
 				{
 					"PackageIdentifier" : "Posit.RStudio",
@@ -312,7 +312,7 @@
 				},
 				{
 					"PackageIdentifier" : "XPDC2RH70K22MN",
-					"Version" : "1.0.9237"
+					"Version" : "1.0.9239"
 				},
 				{
 					"PackageIdentifier" : "XPDBZ4MPRKNN30",
