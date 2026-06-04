@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-06-01T08:00:17.297-00:00",
+	"CreationDate" : "2026-06-04T08:00:15.630-00:00",
 	"Sources" : 
 	[
 		{
@@ -52,7 +52,7 @@
 				},
 				{
 					"PackageIdentifier" : "SteelSeries.GG",
-					"Version" : "111.0.0"
+					"Version" : "112.0.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.GameInput",
@@ -112,7 +112,7 @@
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
-					"Version" : "148.0.7778.216"
+					"Version" : "148.0.7778.217"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
@@ -192,7 +192,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.OneDrive",
-					"Version" : "26.078.0426.0002"
+					"Version" : "26.084.0504.0007"
 				},
 				{
 					"PackageIdentifier" : "Obsidian.Obsidian",
@@ -204,7 +204,7 @@
 				},
 				{
 					"PackageIdentifier" : "Ollama.Ollama",
-					"Version" : "0.24.0"
+					"Version" : "0.30.2"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode",
@@ -316,7 +316,7 @@
 				},
 				{
 					"PackageIdentifier" : "XPDBZ4MPRKNN30",
-					"Version" : "131.0.5877.104"
+					"Version" : "131.0.5877.111"
 				},
 				{
 					"PackageIdentifier" : "XP99J3KP4XZ4VV",
