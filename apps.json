@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-06-04T08:00:15.630-00:00",
+	"CreationDate" : "2026-06-06T08:00:18.058-00:00",
 	"Sources" : 
 	[
 		{
@@ -108,15 +108,15 @@
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "148.1.90.128"
+					"Version" : "149.1.91.168"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
-					"Version" : "148.0.7778.217"
+					"Version" : "148.0.7778.218"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
-					"Version" : "148.0.3967.96"
+					"Version" : "149.0.4022.52"
 				},
 				{
 					"PackageIdentifier" : "Posit.RStudio",
@@ -204,7 +204,7 @@
 				},
 				{
 					"PackageIdentifier" : "Ollama.Ollama",
-					"Version" : "0.30.2"
+					"Version" : "0.30.5"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode",
@@ -280,7 +280,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.1.8",
-					"Version" : "8000.859.21.0"
+					"Version" : "1.8.8"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminal",
