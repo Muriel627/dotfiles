@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-06-11T08:00:16.294-00:00",
+	"CreationDate" : "2026-06-13T08:00:15.726-00:00",
 	"Sources" : 
 	[
 		{
@@ -108,15 +108,15 @@
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "149.1.91.171"
+					"Version" : "149.1.91.172"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
-					"Version" : "149.0.7827.103"
+					"Version" : "149.0.7827.114"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
-					"Version" : "149.0.4022.62"
+					"Version" : "149.0.4022.69"
 				},
 				{
 					"PackageIdentifier" : "Posit.RStudio",
