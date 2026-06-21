@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-06-20T08:00:21.373-00:00",
+	"CreationDate" : "2026-06-21T08:00:21.465-00:00",
 	"Sources" : 
 	[
 		{
@@ -316,7 +316,7 @@
 				},
 				{
 					"PackageIdentifier" : "XPDC2RH70K22MN",
-					"Version" : "1.0.9241"
+					"Version" : "1.0.9242"
 				},
 				{
 					"PackageIdentifier" : "XPDBZ4MPRKNN30",
