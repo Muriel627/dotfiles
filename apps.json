@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-06-21T08:00:21.465-00:00",
+	"CreationDate" : "2026-06-25T08:00:21.806-00:00",
 	"Sources" : 
 	[
 		{
@@ -112,11 +112,11 @@
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "149.1.91.175"
+					"Version" : "149.1.91.178"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
-					"Version" : "149.0.7827.115"
+					"Version" : "149.0.7827.196"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
@@ -196,7 +196,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.OneDrive",
-					"Version" : "26.095.0519.0003"
+					"Version" : "26.098.0524.0004"
 				},
 				{
 					"PackageIdentifier" : "Obsidian.Obsidian",
@@ -320,7 +320,7 @@
 				},
 				{
 					"PackageIdentifier" : "XPDBZ4MPRKNN30",
-					"Version" : "132.0.5905.43"
+					"Version" : "132.0.5905.82"
 				},
 				{
 					"PackageIdentifier" : "XP99J3KP4XZ4VV",
