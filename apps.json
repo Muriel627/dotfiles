@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-07-08T08:00:21.394-00:00",
+	"CreationDate" : "2026-07-09T08:00:20.441-00:00",
 	"Sources" : 
 	[
 		{
@@ -112,11 +112,11 @@
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "150.1.92.134"
+					"Version" : "150.1.92.138"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
-					"Version" : "149.0.7827.199"
+					"Version" : "150.0.7871.102"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
@@ -285,10 +285,6 @@
 				{
 					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.1.8",
 					"Version" : "1.8.9"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.2.1",
-					"Version" : "2.2.0.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminal",
