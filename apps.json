@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-07-10T08:00:20.499-00:00",
+	"CreationDate" : "2026-07-11T08:00:29.642-00:00",
 	"Sources" : 
 	[
 		{
@@ -120,7 +120,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
-					"Version" : "150.0.4078.48"
+					"Version" : "150.0.4078.65"
 				},
 				{
 					"PackageIdentifier" : "Posit.RStudio",
@@ -208,7 +208,7 @@
 				},
 				{
 					"PackageIdentifier" : "Ollama.Ollama",
-					"Version" : "0.31.1"
+					"Version" : "0.31.2"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode",
