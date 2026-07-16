@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-07-14T08:00:14.238-00:00",
+	"CreationDate" : "2026-07-16T08:00:20.649-00:00",
 	"Sources" : 
 	[
 		{
@@ -56,7 +56,7 @@
 				},
 				{
 					"PackageIdentifier" : "SteelSeries.GG",
-					"Version" : "114.0.0"
+					"Version" : "115.0.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.GameInput",
@@ -112,11 +112,11 @@
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "150.1.92.139"
+					"Version" : "150.1.92.140"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
-					"Version" : "150.0.7871.115"
+					"Version" : "150.0.7871.116"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
@@ -131,12 +131,20 @@
 					"Version" : "2020"
 				},
 				{
+					"PackageIdentifier" : "Intel.IntelDriverAndSupportAssistant",
+					"Version" : "26.2.0.7"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2013.x64",
 					"Version" : "12.0.40664.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6",
 					"Version" : "6.0.36"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.Runtime.8",
+					"Version" : "8.0.29"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86",
@@ -151,12 +159,12 @@
 					"Version" : "11.0.61030.0"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.8",
-					"Version" : "8.0.28"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.PowerBI",
 					"Version" : "2.150.2455.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.8",
+					"Version" : "8.0.29"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64",
@@ -167,12 +175,8 @@
 					"Version" : "12.0.40664.0"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.Runtime.8",
-					"Version" : "8.0.28"
-				},
-				{
-					"PackageIdentifier" : "Intel.IntelDriverAndSupportAssistant",
-					"Version" : "26.1.0.2"
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.8",
+					"Version" : "8.0.29"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2010.x86",
@@ -181,10 +185,6 @@
 				{
 					"PackageIdentifier" : "EpicGames.EpicGamesLauncher",
 					"Version" : "1.3.93.0"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.8",
-					"Version" : "8.0.28"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.SQLServerManagementStudio",
@@ -208,7 +208,7 @@
 				},
 				{
 					"PackageIdentifier" : "Ollama.Ollama",
-					"Version" : "0.31.2"
+					"Version" : "0.32.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode",
@@ -284,11 +284,11 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.1.8",
-					"Version" : "1.8.9"
+					"Version" : "> 1.8.9"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminal",
-					"Version" : "1.24.11321.0"
+					"Version" : "1.24.11911.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WSL",
