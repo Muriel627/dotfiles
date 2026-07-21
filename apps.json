@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-07-18T08:00:20.374-00:00",
+	"CreationDate" : "2026-07-21T08:00:19.628-00:00",
 	"Sources" : 
 	[
 		{
@@ -116,7 +116,7 @@
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
-					"Version" : "150.0.7871.125"
+					"Version" : "150.0.7871.129"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
@@ -208,7 +208,7 @@
 				},
 				{
 					"PackageIdentifier" : "Ollama.Ollama",
-					"Version" : "0.32.0"
+					"Version" : "0.32.1"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode",
@@ -320,7 +320,7 @@
 				},
 				{
 					"PackageIdentifier" : "XPDBZ4MPRKNN30",
-					"Version" : "133.0.5932.39"
+					"Version" : "133.0.5932.56"
 				},
 				{
 					"PackageIdentifier" : "XP99J3KP4XZ4VV",
