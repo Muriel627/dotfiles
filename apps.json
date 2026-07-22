@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-07-21T08:00:19.628-00:00",
+	"CreationDate" : "2026-07-22T08:00:20.828-00:00",
 	"Sources" : 
 	[
 		{
@@ -116,7 +116,7 @@
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
-					"Version" : "150.0.7871.129"
+					"Version" : "150.0.7871.181"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
