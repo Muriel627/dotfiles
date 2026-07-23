@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-07-22T08:00:20.828-00:00",
+	"CreationDate" : "2026-07-23T08:00:16.121-00:00",
 	"Sources" : 
 	[
 		{
@@ -112,7 +112,7 @@
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "150.1.92.141"
+					"Version" : "150.1.92.143"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
