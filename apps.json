@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-07-23T08:00:16.121-00:00",
+	"CreationDate" : "2026-07-25T08:00:21.827-00:00",
 	"Sources" : 
 	[
 		{
@@ -112,15 +112,15 @@
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "150.1.92.143"
+					"Version" : "150.1.92.144"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
-					"Version" : "150.0.7871.181"
+					"Version" : "150.0.7871.186"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
-					"Version" : "150.0.4078.83"
+					"Version" : "150.0.4078.99"
 				},
 				{
 					"PackageIdentifier" : "Posit.RStudio",
@@ -161,6 +161,10 @@
 				{
 					"PackageIdentifier" : "Microsoft.PowerBI",
 					"Version" : "2.150.2455.0"
+				},
+				{
+					"PackageIdentifier" : "EpicGames.EpicOnlineServices",
+					"Version" : "2.0.44.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.8",
@@ -208,7 +212,7 @@
 				},
 				{
 					"PackageIdentifier" : "Ollama.Ollama",
-					"Version" : "0.32.1"
+					"Version" : "0.32.3"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode",
