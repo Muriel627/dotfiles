@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-07-25T08:00:21.827-00:00",
+	"CreationDate" : "2026-07-28T08:00:18.693-00:00",
 	"Sources" : 
 	[
 		{
@@ -116,11 +116,11 @@
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
-					"Version" : "150.0.7871.186"
+					"Version" : "150.0.7871.187"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
-					"Version" : "150.0.4078.99"
+					"Version" : "150.0.4078.105"
 				},
 				{
 					"PackageIdentifier" : "Posit.RStudio",
@@ -212,7 +212,7 @@
 				},
 				{
 					"PackageIdentifier" : "Ollama.Ollama",
-					"Version" : "0.32.3"
+					"Version" : "0.32.4"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode",
@@ -296,7 +296,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WSL",
-					"Version" : "2.7.10.0"
+					"Version" : "2.7.11.0"
 				},
 				{
 					"PackageIdentifier" : "JanDeDobbeleer.OhMyPosh",
@@ -324,7 +324,7 @@
 				},
 				{
 					"PackageIdentifier" : "XPDBZ4MPRKNN30",
-					"Version" : "133.0.5932.56"
+					"Version" : "133.0.5932.81"
 				},
 				{
 					"PackageIdentifier" : "XP99J3KP4XZ4VV",
