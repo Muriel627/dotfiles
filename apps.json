@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-07-28T08:00:18.693-00:00",
+	"CreationDate" : "2026-08-22T08:00:27.095-00:00",
 	"Sources" : 
 	[
 		{
@@ -8,7 +8,7 @@
 			[
 				{
 					"PackageIdentifier" : "Bitdefender.Bitdefender",
-					"Version" : "27.1.1.41"
+					"Version" : "27.1.1.45"
 				},
 				{
 					"PackageIdentifier" : "JetBrains.CLion",
@@ -56,7 +56,7 @@
 				},
 				{
 					"PackageIdentifier" : "SteelSeries.GG",
-					"Version" : "115.0.0"
+					"Version" : "117.0.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.GameInput",
@@ -112,15 +112,15 @@
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "150.1.92.144"
+					"Version" : "151.1.93.138"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
-					"Version" : "150.0.7871.187"
+					"Version" : "151.0.7922.170"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
-					"Version" : "150.0.4078.105"
+					"Version" : "151.0.4129.101"
 				},
 				{
 					"PackageIdentifier" : "Posit.RStudio",
@@ -143,12 +143,12 @@
 					"Version" : "6.0.36"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.Runtime.8",
-					"Version" : "8.0.29"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86",
 					"Version" : "14.50.35719.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.8",
+					"Version" : "8.0.30"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.Runtime.6",
@@ -159,16 +159,16 @@
 					"Version" : "11.0.61030.0"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.8",
+					"Version" : "8.0.30"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.PowerBI",
 					"Version" : "2.150.2455.0"
 				},
 				{
 					"PackageIdentifier" : "EpicGames.EpicOnlineServices",
 					"Version" : "2.0.44.0"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.8",
-					"Version" : "8.0.29"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64",
@@ -179,16 +179,16 @@
 					"Version" : "12.0.40664.0"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.8",
-					"Version" : "8.0.29"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2010.x86",
 					"Version" : "10.0.40219"
 				},
 				{
 					"PackageIdentifier" : "EpicGames.EpicGamesLauncher",
 					"Version" : "1.3.93.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.Runtime.8",
+					"Version" : "8.0.30"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.SQLServerManagementStudio",
@@ -200,7 +200,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.OneDrive",
-					"Version" : "26.108.0607.0002"
+					"Version" : "26.139.0720.0007"
 				},
 				{
 					"PackageIdentifier" : "Obsidian.Obsidian",
@@ -212,7 +212,7 @@
 				},
 				{
 					"PackageIdentifier" : "Ollama.Ollama",
-					"Version" : "0.32.4"
+					"Version" : "0.32.15"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode",
@@ -228,7 +228,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.AppInstaller",
-					"Version" : "1.29.280.0"
+					"Version" : "1.29.290.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DirectX",
@@ -237,6 +237,10 @@
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.Native.Runtime",
 					"Version" : "2.2.28604.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Outlook",
+					"Version" : "1.2026.521.100"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.UI.Xaml.2.6",
@@ -291,12 +295,16 @@
 					"Version" : "> 1.8.9"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.2",
+					"Version" : "2.4.0.0"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminal",
 					"Version" : "1.24.11911.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WSL",
-					"Version" : "2.7.11.0"
+					"Version" : "2.7.12.0"
 				},
 				{
 					"PackageIdentifier" : "JanDeDobbeleer.OhMyPosh",
@@ -320,15 +328,15 @@
 				},
 				{
 					"PackageIdentifier" : "XPDC2RH70K22MN",
-					"Version" : "1.0.9245"
+					"Version" : "1.0.9254"
 				},
 				{
 					"PackageIdentifier" : "XPDBZ4MPRKNN30",
-					"Version" : "133.0.5932.81"
+					"Version" : "134.0.5954.67"
 				},
 				{
 					"PackageIdentifier" : "XP99J3KP4XZ4VV",
-					"Version" : "7.0.5 (38856)"
+					"Version" : "7.0.6 (43848)"
 				}
 			],
 			"SourceDetails" : 
@@ -340,5 +348,5 @@
 			}
 		}
 	],
-	"WinGetVersion" : "1.29.280"
+	"WinGetVersion" : "1.29.290"
 }
