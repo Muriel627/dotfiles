@@ -41,12 +41,16 @@
   },
   "json.schemas": [
     {
-      "fileMatch": ["/zapp.json"],
-      "url": "file:///c%3A/Users/Luciana%20Pastor/.vscode/extensions/ibm.zopeneditor-6.4.0/resources/zapp-schema-1.8.0.json",
+      "fileMatch": [
+        "/zapp.json"
+      ],
+      "url": "file:///c%3A/Users/Luciana%20Pastor/.vscode/extensions/ibm.zopeneditor-6.7.0/resources/zapp-schema-1.11.0.json"
     },
     {
-      "fileMatch": ["/zcodeformat.json"],
-      "url": "file:///c%3A/Users/Luciana%20Pastor/.vscode/extensions/ibm.zopeneditor-6.4.0/resources/zcodeformat-schema-0.0.1.json",
-    },
+      "fileMatch": [
+        "/zcodeformat.json"
+      ],
+      "url": "file:///c%3A/Users/Luciana%20Pastor/.vscode/extensions/ibm.zopeneditor-6.7.0/resources/zcodeformat-schema-0.0.1.json"
+    }
   ],
 }
