@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-08-31T08:00:16.549-00:00",
+	"CreationDate" : "2026-09-04T08:00:15.442-00:00",
 	"Sources" : 
 	[
 		{
@@ -112,15 +112,15 @@
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "152.1.94.117"
+					"Version" : "152.1.94.119"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
-					"Version" : "151.0.7922.174"
+					"Version" : "152.0.7977.76"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
-					"Version" : "152.0.4191.53"
+					"Version" : "152.0.4191.62"
 				},
 				{
 					"PackageIdentifier" : "Posit.RStudio",
@@ -203,12 +203,16 @@
 					"Version" : "20.2.1"
 				},
 				{
+					"PackageIdentifier" : "Google.Antigravity",
+					"Version" : "2.11.0"
+				},
+				{
 					"PackageIdentifier" : "GitHub.GitHubDesktop",
 					"Version" : "3.5.5"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.OneDrive",
-					"Version" : "26.145.0728.0011"
+					"Version" : "26.150.0804.0011"
 				},
 				{
 					"PackageIdentifier" : "Obsidian.Obsidian",
@@ -336,11 +340,11 @@
 				},
 				{
 					"PackageIdentifier" : "XPDC2RH70K22MN",
-					"Version" : "1.0.9255"
+					"Version" : "1.0.9256"
 				},
 				{
 					"PackageIdentifier" : "XPDBZ4MPRKNN30",
-					"Version" : "134.0.5954.67"
+					"Version" : "135.0.5973.85"
 				},
 				{
 					"PackageIdentifier" : "XP99J3KP4XZ4VV",
