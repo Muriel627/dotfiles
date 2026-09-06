@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-09-04T08:00:15.442-00:00",
+	"CreationDate" : "2026-09-06T08:00:15.787-00:00",
 	"Sources" : 
 	[
 		{
@@ -112,7 +112,7 @@
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "152.1.94.119"
+					"Version" : "152.1.94.121"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
@@ -120,7 +120,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
-					"Version" : "152.0.4191.62"
+					"Version" : "152.0.4191.66"
 				},
 				{
 					"PackageIdentifier" : "Posit.RStudio",
@@ -224,7 +224,7 @@
 				},
 				{
 					"PackageIdentifier" : "Ollama.Ollama",
-					"Version" : "0.33.2"
+					"Version" : "0.33.3"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode",
@@ -245,6 +245,10 @@
 				{
 					"PackageIdentifier" : "Microsoft.DirectX",
 					"Version" : "9.29.1974.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.365Copilot",
+					"Version" : "19.2608.61011.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.Native.Runtime",
@@ -316,7 +320,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WSL",
-					"Version" : "2.7.12.0"
+					"Version" : "2.7.13.0"
 				},
 				{
 					"PackageIdentifier" : "JanDeDobbeleer.OhMyPosh",
