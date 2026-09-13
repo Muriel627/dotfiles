@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-09-12T08:00:19.876-00:00",
+	"CreationDate" : "2026-09-13T08:00:14.341-00:00",
 	"Sources" : 
 	[
 		{
@@ -320,7 +320,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WSL",
-					"Version" : "2.7.13.0"
+					"Version" : "2.7.14.0"
 				},
 				{
 					"PackageIdentifier" : "JanDeDobbeleer.OhMyPosh",
