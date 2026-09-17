@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-09-16T08:00:15.196-00:00",
+	"CreationDate" : "2026-09-17T08:00:16.386-00:00",
 	"Sources" : 
 	[
 		{
@@ -112,7 +112,7 @@
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "153.1.95.101"
+					"Version" : "153.1.95.102"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
@@ -248,7 +248,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.365Copilot",
-					"Version" : "19.2609.37021.0"
+					"Version" : "19.2609.44031.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.Native.Runtime",
@@ -312,7 +312,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.2",
-					"Version" : "2.4.0.0"
+					"Version" : "2.5.1.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminal",
@@ -344,7 +344,7 @@
 				},
 				{
 					"PackageIdentifier" : "XPDC2RH70K22MN",
-					"Version" : "1.0.9257"
+					"Version" : "1.0.9258"
 				},
 				{
 					"PackageIdentifier" : "XPDBZ4MPRKNN30",
