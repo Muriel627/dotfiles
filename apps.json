@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-09-20T08:00:14.520-00:00",
+	"CreationDate" : "2026-09-25T08:00:10.338-00:00",
 	"Sources" : 
 	[
 		{
@@ -55,14 +55,6 @@
 					"Version" : "4.5.2"
 				},
 				{
-					"PackageIdentifier" : "SteelSeries.GG",
-					"Version" : "119.0.0"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.GameInput",
-					"Version" : "3.3.221.0"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.msodbcsql.17",
 					"Version" : "17.10.6.1"
 				},
@@ -73,6 +65,10 @@
 				{
 					"PackageIdentifier" : "Oracle.JDK.17",
 					"Version" : "17.0.12.0"
+				},
+				{
+					"PackageIdentifier" : "ESET.Nod32",
+					"Version" : "19.2.10.0"
 				},
 				{
 					"PackageIdentifier" : "Oracle.MySQL",
@@ -91,6 +87,10 @@
 					"Version" : "4.5.2.251141402"
 				},
 				{
+					"PackageIdentifier" : "Anki.Anki",
+					"Version" : "26.9.3"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.msmpi",
 					"Version" : "10.1.12498.52"
 				},
@@ -103,6 +103,10 @@
 					"Version" : "9.23.1019"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.GameInput",
+					"Version" : "3.5.270.0"
+				},
+				{
 					"PackageIdentifier" : "EclipseAdoptium.Temurin.21.JDK",
 					"Version" : "21.0.6.7"
 				},
@@ -112,11 +116,11 @@
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "153.1.95.104"
+					"Version" : "154.1.96.59"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
-					"Version" : "153.0.8010.50"
+					"Version" : "153.0.8010.53"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
@@ -212,7 +216,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.OneDrive",
-					"Version" : "26.158.0816.0003"
+					"Version" : "26.163.0823.0004"
 				},
 				{
 					"PackageIdentifier" : "Obsidian.Obsidian",
@@ -224,7 +228,7 @@
 				},
 				{
 					"PackageIdentifier" : "Ollama.Ollama",
-					"Version" : "0.34.1"
+					"Version" : "0.34.3"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode",
@@ -240,7 +244,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.AppInstaller",
-					"Version" : "1.29.290.0"
+					"Version" : "1.29.380.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DirectX",
@@ -248,7 +252,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.365Copilot",
-					"Version" : "19.2609.44031.0"
+					"Version" : "19.2609.52011.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.Native.Runtime",
@@ -348,11 +352,11 @@
 				},
 				{
 					"PackageIdentifier" : "XPDBZ4MPRKNN30",
-					"Version" : "135.0.5973.94"
+					"Version" : "136.0.6008.50"
 				},
 				{
 					"PackageIdentifier" : "XP99J3KP4XZ4VV",
-					"Version" : "7.0.6 (43848)"
+					"Version" : "7.1.9 (48550)"
 				}
 			],
 			"SourceDetails" : 
@@ -364,5 +368,5 @@
 			}
 		}
 	],
-	"WinGetVersion" : "1.29.290"
+	"WinGetVersion" : "1.29.380"
 }
