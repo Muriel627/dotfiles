@@ -53,4 +53,5 @@
       "url": "file:///c%3A/Users/Luciana%20Pastor/.vscode/extensions/ibm.zopeneditor-6.7.0/resources/zcodeformat-schema-0.0.1.json"
     }
   ],
+  "chat.disableAIFeatures": true,
 }

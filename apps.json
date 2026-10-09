@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-10-05T08:00:10.518-00:00",
+	"CreationDate" : "2026-10-09T08:00:10.731-00:00",
 	"Sources" : 
 	[
 		{
@@ -111,20 +111,24 @@
 					"Version" : "21.0.6.7"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.WebDeploy",
+					"Version" : "10.0.9419"
+				},
+				{
 					"PackageIdentifier" : "Veeam.VeeamAgent",
 					"Version" : "13.0.1.1009"
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "154.1.96.61"
+					"Version" : "155.1.97.56"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
-					"Version" : "154.0.8037.93"
+					"Version" : "154.0.8037.98"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
-					"Version" : "154.0.4258.53"
+					"Version" : "154.0.4258.62"
 				},
 				{
 					"PackageIdentifier" : "Posit.RStudio",
@@ -137,6 +141,10 @@
 				{
 					"PackageIdentifier" : "aSc.aScTimeTables",
 					"Version" : "2020"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VisualStudio.Community",
+					"Version" : "18.10.3"
 				},
 				{
 					"PackageIdentifier" : "Intel.IntelDriverAndSupportAssistant",
@@ -216,7 +224,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.OneDrive",
-					"Version" : "26.168.0830.0006"
+					"Version" : "26.173.0906.0008"
 				},
 				{
 					"PackageIdentifier" : "Obsidian.Obsidian",
@@ -228,7 +236,7 @@
 				},
 				{
 					"PackageIdentifier" : "Ollama.Ollama",
-					"Version" : "0.35.0"
+					"Version" : "0.40.2"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode",
@@ -252,7 +260,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.365Copilot",
-					"Version" : "19.2609.52011.0"
+					"Version" : "19.2610.35011.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.Native.Runtime",
