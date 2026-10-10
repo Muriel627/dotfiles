@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-10-09T08:00:10.731-00:00",
+	"CreationDate" : "2026-10-10T08:00:07.436-00:00",
 	"Sources" : 
 	[
 		{
@@ -128,7 +128,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
-					"Version" : "154.0.4258.62"
+					"Version" : "155.0.4283.45"
 				},
 				{
 					"PackageIdentifier" : "Posit.RStudio",
