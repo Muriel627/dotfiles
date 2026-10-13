@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-10-12T08:00:07.533-00:00",
+	"CreationDate" : "2026-10-13T08:00:09.720-00:00",
 	"Sources" : 
 	[
 		{
@@ -124,7 +124,7 @@
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
-					"Version" : "154.0.8037.98"
+					"Version" : "155.0.8059.40"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
@@ -224,7 +224,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.OneDrive",
-					"Version" : "26.173.0906.0008"
+					"Version" : "26.178.0913.0007"
 				},
 				{
 					"PackageIdentifier" : "Obsidian.Obsidian",
@@ -331,10 +331,6 @@
 					"Version" : "1.24.12741.0"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.WSL",
-					"Version" : "3.0.1.0"
-				},
-				{
 					"PackageIdentifier" : "JanDeDobbeleer.OhMyPosh",
 					"Version" : "29.4.1.0"
 				}
@@ -356,11 +352,11 @@
 				},
 				{
 					"PackageIdentifier" : "XPDC2RH70K22MN",
-					"Version" : "1.0.9260"
+					"Version" : "1.0.9261"
 				},
 				{
 					"PackageIdentifier" : "XPDBZ4MPRKNN30",
-					"Version" : "136.0.6008.76"
+					"Version" : "136.0.6008.111"
 				},
 				{
 					"PackageIdentifier" : "XP99J3KP4XZ4VV",
