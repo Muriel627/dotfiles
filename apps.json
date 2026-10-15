@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-10-13T08:00:09.720-00:00",
+	"CreationDate" : "2026-10-15T08:00:09.284-00:00",
 	"Sources" : 
 	[
 		{
@@ -120,7 +120,7 @@
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "155.1.97.56"
+					"Version" : "155.1.97.57"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
@@ -163,28 +163,16 @@
 					"Version" : "14.50.35719.0"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.SDK.10",
-					"Version" : "10.0.401"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.8",
-					"Version" : "8.0.31"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.8",
-					"Version" : "8.0.31"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.DotNet.Runtime.6",
 					"Version" : "6.0.36"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.Runtime.8",
-					"Version" : "8.0.31"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2012.x86",
 					"Version" : "11.0.61030.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.SDK.10",
+					"Version" : "10.0.402"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.PowerBI",
@@ -193,6 +181,18 @@
 				{
 					"PackageIdentifier" : "EpicGames.EpicOnlineServices",
 					"Version" : "2.0.44.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.8",
+					"Version" : "8.0.32"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.8",
+					"Version" : "8.0.32"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.Runtime.8",
+					"Version" : "8.0.32"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2013.x86",
@@ -236,7 +236,7 @@
 				},
 				{
 					"PackageIdentifier" : "Ollama.Ollama",
-					"Version" : "0.40.2"
+					"Version" : "0.40.4"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode",
