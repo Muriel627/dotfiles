@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-10-15T08:00:09.284-00:00",
+	"CreationDate" : "2026-10-16T08:00:08.413-00:00",
 	"Sources" : 
 	[
 		{
@@ -124,11 +124,11 @@
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
-					"Version" : "155.0.8059.40"
+					"Version" : "155.0.8059.82"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
-					"Version" : "155.0.4283.45"
+					"Version" : "155.0.4283.60"
 				},
 				{
 					"PackageIdentifier" : "Posit.RStudio",
@@ -352,7 +352,7 @@
 				},
 				{
 					"PackageIdentifier" : "XPDC2RH70K22MN",
-					"Version" : "1.0.9261"
+					"Version" : "1.0.9262"
 				},
 				{
 					"PackageIdentifier" : "XPDBZ4MPRKNN30",
