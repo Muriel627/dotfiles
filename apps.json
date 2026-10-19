@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-10-16T08:00:08.413-00:00",
+	"CreationDate" : "2026-10-19T08:00:07.741-00:00",
 	"Sources" : 
 	[
 		{
@@ -120,7 +120,7 @@
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "155.1.97.57"
+					"Version" : "155.1.97.59"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
@@ -128,7 +128,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
-					"Version" : "155.0.4283.60"
+					"Version" : "155.0.4283.62"
 				},
 				{
 					"PackageIdentifier" : "Posit.RStudio",
@@ -236,7 +236,7 @@
 				},
 				{
 					"PackageIdentifier" : "Ollama.Ollama",
-					"Version" : "0.40.4"
+					"Version" : "0.40.5"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode",
@@ -260,7 +260,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.365Copilot",
-					"Version" : "19.2610.35011.0"
+					"Version" : "155.0.4283.62"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.Native.Runtime",
