@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-10-19T08:00:07.741-00:00",
+	"CreationDate" : "2026-10-23T08:00:10.355-00:00",
 	"Sources" : 
 	[
 		{
@@ -8,7 +8,7 @@
 			[
 				{
 					"PackageIdentifier" : "Bitdefender.Bitdefender",
-					"Version" : "27.1.1.49"
+					"Version" : "27.1.1.50"
 				},
 				{
 					"PackageIdentifier" : "JetBrains.CLion",
@@ -64,7 +64,7 @@
 				},
 				{
 					"PackageIdentifier" : "Oracle.JDK.17",
-					"Version" : "17.0.12.0"
+					"Version" : "25.0.5.0"
 				},
 				{
 					"PackageIdentifier" : "ESET.Nod32",
@@ -77,6 +77,10 @@
 				{
 					"PackageIdentifier" : "Microsoft.SQLServer.OLEDBDriver",
 					"Version" : "19.4.1.0"
+				},
+				{
+					"PackageIdentifier" : "OpenJS.NodeJS.LTS",
+					"Version" : "24.14.0"
 				},
 				{
 					"PackageIdentifier" : "Oracle.MySQLWorkbench",
@@ -120,15 +124,15 @@
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "155.1.97.59"
+					"Version" : "156.1.98.60"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
-					"Version" : "155.0.8059.82"
+					"Version" : "155.0.8059.85"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
-					"Version" : "155.0.4283.62"
+					"Version" : "156.0.4314.42"
 				},
 				{
 					"PackageIdentifier" : "Posit.RStudio",
@@ -224,7 +228,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.OneDrive",
-					"Version" : "26.178.0913.0007"
+					"Version" : "26.183.0920.0005"
 				},
 				{
 					"PackageIdentifier" : "Obsidian.Obsidian",
@@ -236,7 +240,7 @@
 				},
 				{
 					"PackageIdentifier" : "Ollama.Ollama",
-					"Version" : "0.40.5"
+					"Version" : "0.40.8"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode",
@@ -260,7 +264,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.365Copilot",
-					"Version" : "155.0.4283.62"
+					"Version" : "156.0.4314.42"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.Native.Runtime",
@@ -356,7 +360,7 @@
 				},
 				{
 					"PackageIdentifier" : "XPDBZ4MPRKNN30",
-					"Version" : "136.0.6008.111"
+					"Version" : "137.0.6036.65"
 				},
 				{
 					"PackageIdentifier" : "XP99J3KP4XZ4VV",
