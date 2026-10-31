@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-10-24T08:00:08.180-00:00",
+	"CreationDate" : "2026-10-31T08:00:14.118-00:00",
 	"Sources" : 
 	[
 		{
@@ -8,7 +8,7 @@
 			[
 				{
 					"PackageIdentifier" : "Bitdefender.Bitdefender",
-					"Version" : "27.1.1.50"
+					"Version" : "27.1.1.51"
 				},
 				{
 					"PackageIdentifier" : "JetBrains.CLion",
@@ -55,6 +55,10 @@
 					"Version" : "4.5.2"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.GameInput",
+					"Version" : "4.0.302.0"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.msodbcsql.17",
 					"Version" : "17.10.6.1"
 				},
@@ -64,7 +68,7 @@
 				},
 				{
 					"PackageIdentifier" : "Oracle.JDK.17",
-					"Version" : "25.0.5.0"
+					"Version" : "17.0.12.0"
 				},
 				{
 					"PackageIdentifier" : "ESET.Nod32",
@@ -99,16 +103,16 @@
 					"Version" : "10.1.12498.52"
 				},
 				{
+					"PackageIdentifier" : "Oracle.JDK.25",
+					"Version" : "25.0.5.0"
+				},
+				{
 					"PackageIdentifier" : "logisim-evolution.logisim-evolution",
 					"Version" : "4.1.0"
 				},
 				{
 					"PackageIdentifier" : "Nvidia.PhysX",
 					"Version" : "9.23.1019"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.GameInput",
-					"Version" : "3.5.270.0"
 				},
 				{
 					"PackageIdentifier" : "EclipseAdoptium.Temurin.21.JDK",
@@ -124,15 +128,15 @@
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "156.1.98.60"
+					"Version" : "156.1.98.63"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
-					"Version" : "155.0.8059.85"
+					"Version" : "156.0.8078.76"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
-					"Version" : "156.0.4314.42"
+					"Version" : "156.0.4314.56"
 				},
 				{
 					"PackageIdentifier" : "Posit.RStudio",
@@ -151,6 +155,10 @@
 					"Version" : "18.10.3"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.DotNet.Runtime.8",
+					"Version" : "8.0.33"
+				},
+				{
 					"PackageIdentifier" : "Intel.IntelDriverAndSupportAssistant",
 					"Version" : "26.2.0.7"
 				},
@@ -161,6 +169,10 @@
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6",
 					"Version" : "6.0.36"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.8",
+					"Version" : "8.0.33"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86",
@@ -175,10 +187,6 @@
 					"Version" : "11.0.61030.0"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.SDK.10",
-					"Version" : "10.0.402"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.PowerBI",
 					"Version" : "2.150.2455.0"
 				},
@@ -187,20 +195,16 @@
 					"Version" : "2.0.44.0"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.8",
-					"Version" : "8.0.32"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.8",
-					"Version" : "8.0.32"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.DotNet.Runtime.8",
-					"Version" : "8.0.32"
+					"Version" : "8.0.33"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2013.x86",
 					"Version" : "12.0.40664.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.SDK.10",
+					"Version" : "10.0.403"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2010.x86",
@@ -228,7 +232,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.OneDrive",
-					"Version" : "26.183.0920.0005"
+					"Version" : "26.189.0928.0009"
 				},
 				{
 					"PackageIdentifier" : "Obsidian.Obsidian",
@@ -240,7 +244,7 @@
 				},
 				{
 					"PackageIdentifier" : "Ollama.Ollama",
-					"Version" : "0.40.8"
+					"Version" : "0.40.13"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode",
@@ -264,7 +268,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.365Copilot",
-					"Version" : "156.0.4314.42"
+					"Version" : "156.0.4314.56"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.Native.Runtime",
@@ -328,7 +332,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.2",
-					"Version" : "2.5.1.0"
+					"Version" : "2.6.4.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminal",
@@ -356,11 +360,11 @@
 				},
 				{
 					"PackageIdentifier" : "XPDC2RH70K22MN",
-					"Version" : "1.0.9262"
+					"Version" : "1.0.9265"
 				},
 				{
 					"PackageIdentifier" : "XPDBZ4MPRKNN30",
-					"Version" : "137.0.6036.65"
+					"Version" : "138.0.6044.65"
 				},
 				{
 					"PackageIdentifier" : "XP99J3KP4XZ4VV",
