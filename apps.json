@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-11-02T08:00:07.211-00:00",
+	"CreationDate" : "2026-11-06T08:00:26.467-00:00",
 	"Sources" : 
 	[
 		{
@@ -55,10 +55,6 @@
 					"Version" : "4.5.2"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.GameInput",
-					"Version" : "4.0.302.0"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.msodbcsql.17",
 					"Version" : "17.10.6.1"
 				},
@@ -72,7 +68,7 @@
 				},
 				{
 					"PackageIdentifier" : "ESET.Nod32",
-					"Version" : "19.2.10.0"
+					"Version" : "20.0.7.0"
 				},
 				{
 					"PackageIdentifier" : "Oracle.MySQL",
@@ -123,16 +119,20 @@
 					"Version" : "10.0.9419"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.GameInput",
+					"Version" : "4.0.306.0"
+				},
+				{
 					"PackageIdentifier" : "Veeam.VeeamAgent",
 					"Version" : "13.0.1.1009"
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "156.1.98.63"
+					"Version" : "157.1.99.55"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
-					"Version" : "156.0.8078.76"
+					"Version" : "156.0.8078.81"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
@@ -232,7 +232,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.OneDrive",
-					"Version" : "26.189.0928.0009"
+					"Version" : "26.195.1006.0007"
 				},
 				{
 					"PackageIdentifier" : "Obsidian.Obsidian",
@@ -244,7 +244,7 @@
 				},
 				{
 					"PackageIdentifier" : "Ollama.Ollama",
-					"Version" : "0.40.13"
+					"Version" : "0.40.14"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode",
@@ -332,7 +332,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.2",
-					"Version" : "2.6.4.0"
+					"Version" : "2.6.5.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminal",
@@ -360,7 +360,7 @@
 				},
 				{
 					"PackageIdentifier" : "XPDC2RH70K22MN",
-					"Version" : "1.0.9266"
+					"Version" : "1.0.9267"
 				},
 				{
 					"PackageIdentifier" : "XPDBZ4MPRKNN30",
