@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-11-06T08:00:26.467-00:00",
+	"CreationDate" : "2026-11-07T08:00:08.527-00:00",
 	"Sources" : 
 	[
 		{
@@ -136,7 +136,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
-					"Version" : "156.0.4314.58"
+					"Version" : "157.0.4341.42"
 				},
 				{
 					"PackageIdentifier" : "Posit.RStudio",
@@ -268,7 +268,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.365Copilot",
-					"Version" : "156.0.4314.58"
+					"Version" : "157.0.4341.42"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.Native.Runtime",
