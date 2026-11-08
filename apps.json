@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-11-07T08:00:08.527-00:00",
+	"CreationDate" : "2026-11-08T08:00:07.903-00:00",
 	"Sources" : 
 	[
 		{
@@ -75,8 +75,8 @@
 					"Version" : "9.1.0"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.SQLServer.OLEDBDriver",
-					"Version" : "19.4.1.0"
+					"PackageIdentifier" : "Microsoft.SQLServer.OLEDBDriver.18",
+					"Version" : "18.7.4.0"
 				},
 				{
 					"PackageIdentifier" : "OpenJS.NodeJS.LTS",
@@ -125,6 +125,10 @@
 				{
 					"PackageIdentifier" : "Veeam.VeeamAgent",
 					"Version" : "13.0.1.1009"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.SQLServer.OLEDBDriver.19",
+					"Version" : "19.4.1.0"
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
