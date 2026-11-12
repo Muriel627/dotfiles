@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-11-11T08:00:09.867-00:00",
+	"CreationDate" : "2026-11-12T08:00:09.807-00:00",
 	"Sources" : 
 	[
 		{
@@ -136,7 +136,7 @@
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
-					"Version" : "157.0.8103.39"
+					"Version" : "157.0.8103.51"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
@@ -228,7 +228,7 @@
 				},
 				{
 					"PackageIdentifier" : "Google.Antigravity",
-					"Version" : "2.11.0"
+					"Version" : "2.31.1"
 				},
 				{
 					"PackageIdentifier" : "GitHub.GitHubDesktop",
@@ -253,6 +253,10 @@
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode",
 					"Version" : "1.135.0"
+				},
+				{
+					"PackageIdentifier" : "Google.AntigravityIDE",
+					"Version" : "2.6.0"
 				},
 				{
 					"PackageIdentifier" : "Canonical.Ubuntu.2204",
