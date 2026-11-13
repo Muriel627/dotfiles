@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-11-12T08:00:09.807-00:00",
+	"CreationDate" : "2026-11-13T08:00:08.566-00:00",
 	"Sources" : 
 	[
 		{
@@ -8,7 +8,7 @@
 			[
 				{
 					"PackageIdentifier" : "Bitdefender.Bitdefender",
-					"Version" : "27.1.1.51"
+					"Version" : "27.1.1.53"
 				},
 				{
 					"PackageIdentifier" : "JetBrains.CLion",
@@ -132,7 +132,7 @@
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "157.1.99.56"
+					"Version" : "157.1.99.57"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
@@ -368,7 +368,7 @@
 				},
 				{
 					"PackageIdentifier" : "XPDC2RH70K22MN",
-					"Version" : "1.0.9267"
+					"Version" : "1.0.9268"
 				},
 				{
 					"PackageIdentifier" : "XPDBZ4MPRKNN30",
