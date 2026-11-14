@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-11-13T08:00:08.566-00:00",
+	"CreationDate" : "2026-11-14T08:00:09.278-00:00",
 	"Sources" : 
 	[
 		{
@@ -140,7 +140,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
-					"Version" : "157.0.4341.46"
+					"Version" : "157.0.4341.60"
 				},
 				{
 					"PackageIdentifier" : "Posit.RStudio",
@@ -344,7 +344,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminal",
-					"Version" : "1.24.12741.0"
+					"Version" : "1.25.3131.0"
 				},
 				{
 					"PackageIdentifier" : "JanDeDobbeleer.OhMyPosh",
