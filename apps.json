@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-11-14T08:00:09.278-00:00",
+	"CreationDate" : "2026-11-16T08:00:09.497-00:00",
 	"Sources" : 
 	[
 		{
@@ -276,7 +276,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.365Copilot",
-					"Version" : "157.0.4341.46"
+					"Version" : "157.0.4341.60"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.Native.Runtime",
