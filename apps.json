@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-11-16T08:00:09.497-00:00",
+	"CreationDate" : "2026-11-21T08:00:12.089-00:00",
 	"Sources" : 
 	[
 		{
@@ -79,7 +79,7 @@
 					"Version" : "18.7.4.0"
 				},
 				{
-					"PackageIdentifier" : "OpenJS.NodeJS.LTS",
+					"PackageIdentifier" : "OpenJS.NodeJS.24",
 					"Version" : "24.14.0"
 				},
 				{
@@ -132,15 +132,15 @@
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave",
-					"Version" : "157.1.99.57"
+					"Version" : "158.1.100.58"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
-					"Version" : "157.0.8103.51"
+					"Version" : "157.0.8103.80"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
-					"Version" : "157.0.4341.60"
+					"Version" : "158.0.4370.33"
 				},
 				{
 					"PackageIdentifier" : "Posit.RStudio",
@@ -236,7 +236,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.OneDrive",
-					"Version" : "26.198.1011.0006"
+					"Version" : "26.204.1019.0007"
 				},
 				{
 					"PackageIdentifier" : "Obsidian.Obsidian",
@@ -276,7 +276,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.365Copilot",
-					"Version" : "157.0.4341.60"
+					"Version" : "158.0.4370.33"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.Native.Runtime",
@@ -340,7 +340,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsAppRuntime.2",
-					"Version" : "2.6.5.0"
+					"Version" : "2.7.0.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminal",
