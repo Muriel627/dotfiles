@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2026-11-22T08:00:08.842-00:00",
+	"CreationDate" : "2026-11-24T08:00:09.769-00:00",
 	"Sources" : 
 	[
 		{
@@ -136,7 +136,7 @@
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome.EXE",
-					"Version" : "157.0.8103.80"
+					"Version" : "158.0.8127.88"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
@@ -236,7 +236,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.OneDrive",
-					"Version" : "26.204.1019.0007"
+					"Version" : "26.212.1029.0006"
 				},
 				{
 					"PackageIdentifier" : "Obsidian.Obsidian",
@@ -248,11 +248,11 @@
 				},
 				{
 					"PackageIdentifier" : "Ollama.Ollama",
-					"Version" : "0.40.16"
+					"Version" : "0.40.17"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode",
-					"Version" : "1.135.0"
+					"Version" : "1.147.0"
 				},
 				{
 					"PackageIdentifier" : "Google.AntigravityIDE",
@@ -368,11 +368,11 @@
 				},
 				{
 					"PackageIdentifier" : "XPDC2RH70K22MN",
-					"Version" : "1.0.9268"
+					"Version" : "1.0.9269"
 				},
 				{
 					"PackageIdentifier" : "XPDBZ4MPRKNN30",
-					"Version" : "139.0.6053.63"
+					"Version" : "140.0.6074.48"
 				},
 				{
 					"PackageIdentifier" : "XP99J3KP4XZ4VV",
